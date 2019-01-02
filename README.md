@@ -203,13 +203,13 @@ Negative examples:
 
 ### 42. Child options must be disabled if main property is disabled
 
+Negative examples:
+- Insight timer options
+
 ### 43. Do not make tiny popups with menu that hide on mouse leave
 
 Negative examples:
 - IMDB vote from search
-
-Negative examples:
-- Insight timer options
 
 ## Useful Links:
 https://overreacted.io/the-elements-of-ui-engineering/
