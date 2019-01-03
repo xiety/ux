@@ -211,5 +211,13 @@ Negative examples:
 Negative examples:
 - IMDB vote from search
 
+### 44. Similar elements must behave the same way
+
+Negative examples:
+- Microsoft Word File ribbon tab
+- Google GMail Contacts menu item
+
+### 45. Screen orientation must not change without prompt
+
 ## Useful Links:
 https://overreacted.io/the-elements-of-ui-engineering/
