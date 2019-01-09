@@ -193,7 +193,7 @@ Negative examples:
 ### 40. Do not make tiny elements inside other active elements
 
 Negative examples:
-- MIUI Contact list. Every time you try to change conact info, you accidentally dial to it.
+- MIUI Contact list. Every time you try to change contact info, you accidentally dial to it.
 - Google YouTube video list.
 
 ### 41. Do not force the user to scroll your infinite scroll to top just to change filter settings
@@ -218,6 +218,13 @@ Negative examples:
 - Google GMail Contacts menu item
 
 ### 45. Screen orientation must not change without prompt
+
+### 46. Nothing should suddenly pop out
+
+Negative examples:
+ - Fortnite launches after update
+
+### 47. Every value must have a unit of measurement. Time must have timezone.
 
 ## Useful Links:
 https://overreacted.io/the-elements-of-ui-engineering/
