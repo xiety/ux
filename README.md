@@ -226,5 +226,7 @@ Negative examples:
 
 ### 47. Every value must have a unit of measurement. Time must have timezone.
 
+### 48. Advanced forms must have user presets
+
 ## Useful Links:
 https://overreacted.io/the-elements-of-ui-engineering/
